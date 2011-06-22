@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[line-height: ${1:1}${2:em};$0]]></content>
+    <content><![CDATA[line-height: ${1:1};$0]]></content>
     <description>line-height: length</description>
     <scope>source.css</scope>
     <tabTrigger>lh</tabTrigger>
