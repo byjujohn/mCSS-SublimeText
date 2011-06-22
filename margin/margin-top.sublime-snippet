@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[margin-top: ${1:1}${2:em};$0]]></content>
+    <content><![CDATA[margin-top: ${1:1}${2:px};$0]]></content>
     <description>margin-top</description>
     <scope>source.css</scope>
     <tabTrigger>mt</tabTrigger>

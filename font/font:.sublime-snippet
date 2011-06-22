@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[font: ${1:1}${2:em}/${3:1.3}${4:em} ${5:Helvetica}, ${6:sans-}serif;$0]]></content>
+    <content><![CDATA[font: ${1:12}${2:px}/${3:14}${4:px} ${5:Helvetica}, ${6:sans-}serif;$0]]></content>
     <description>font:</description>
     <scope>source.css</scope>
     <tabTrigger>f</tabTrigger>
